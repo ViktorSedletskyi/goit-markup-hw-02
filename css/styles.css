@@ -1,0 +1,21 @@
+.list {
+  list-style: none;
+}
+.logo-part1{
+    color: #2196F3;
+}
+.logo-part2{
+    color: black;
+}
+/* Site nav */
+
+.site-nav {
+  color: black;
+}
+.contact-nav {
+    color: #757575;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196F3;
+}
