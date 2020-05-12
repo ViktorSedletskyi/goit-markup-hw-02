@@ -1,24 +1,27 @@
 .list {
   list-style: none;
 }
-.logo:hover, .logo:focus{
-    color: black;
+a {
+  text-decoration: none;
 }
-.part1{
+.logo: hover, .logo: focus{
     color: #2196F3;
 }
-.part2{
+.part-1 {
+    color: #2196F3;
+}
+.part-2 {
     color: black;
 }
 /* Site nav */
 
-.site-nav {
+.site-nav .link {
   color: black;
 }
-.contact-nav {
-    color: #757575;
+.contact-nav .link {
+  color: #757575;
 }
-.site-nav .link:hover,
-.site-nav .link:focus {
+.site-nav .link: hover,
+.site-nav .link: focus {
   color: #2196F3;
 }
