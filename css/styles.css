@@ -25,14 +25,14 @@ a{
 }
 .site-nav .link:hover,
 .site-nav .link:focus{
-  color: rgb(16, 141, 243); 
+  color: #2196F3; 
 }
 .contact-list{
   color: #757575;
 }
 
-.contact-list:hover,
-.contact-list:focus{
+.contact-list .link:hover,
+.contact-list .link:focus{
   color: #2196F3;
 }
 .section{
