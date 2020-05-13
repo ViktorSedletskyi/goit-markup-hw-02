@@ -22,16 +22,16 @@ a{
   color: black;
 }
 
-.site-nav.link:hover,
-.site-nav.link:focus{
+.site-nav .link:hover,
+.site-nav .link:focus{
   color: #2196F3; 
 }
 .contact-list{
   color: #757575;
 }
 
-.contact.link:hover,
-.contact.link:focus{
+.contact .link:hover,
+.contact .link:focus{
   color: #2196F3;
 }
 .section{
