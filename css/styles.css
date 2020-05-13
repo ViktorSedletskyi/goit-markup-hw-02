@@ -2,7 +2,9 @@
 a{
   text-decoration: none;
 }
-
+.list {
+  list-style: none;
+}
 /*logo*/
 
 .logo:hover, 
