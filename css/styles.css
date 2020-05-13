@@ -43,8 +43,7 @@ a{
 
 .section .img:hover,
 .section .img:focus{
-  color: #FFFFFF;
-  background-color: #2196F3;
+    background-color: #2196F3;
 }
 .section-tit{
   color: black;
