@@ -1,5 +1,5 @@
-}
-a {
+
+a{
   text-decoration: none;
 }
 
@@ -9,16 +9,16 @@ a {
 .logo:focus{
     color: rgb(8, 75, 129);
 }
-.part-1 {
+.part-1{
     color: #2196F3;
 }
-.part-2 {
+.part-2{
     color: black;
 }
 
 /* Site nav */
 
-.site-nav .link {
+.site-nav .link{
   color: black;
 }
 
@@ -39,8 +39,11 @@ a {
   color: #212121;
 }
 
-.section-img:hover,
-.section-img:focus{
+.section .img:hover,
+.section .img:focus{
   color: #FFFFFF;
   background-color: #2196F3;
+}
+.section-tit{
+  color: black;
 }
