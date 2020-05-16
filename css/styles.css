@@ -5,7 +5,7 @@ a{
 .list{
   list-style: none;
 }
-/*logo*/
+/* header */
 
 .logo:hover, 
 .logo:focus{
@@ -34,6 +34,37 @@ a{
 .contact .link:focus{
   color: #2196F3;
 }
+
+/* footer */
+
+.footer{
+  background: #2F303A;;
+}
+.logo:hover, 
+.logo:focus{
+    color: #2196F3;
+}
+.part-1{
+    color: #2196F3;
+}
+.part-2{
+    color: black;
+}
+.adress{
+  color: #FFFFFF;
+}
+.contact-f{
+  color: rgba(255, 255, 255, 0.6);
+}
+.article{
+  color: #ffffff;
+}
+.caption{
+  color: rgba(255, 255, 255, 0.4);
+}
+
+/* main page*/ 
+
 .section{
   color: #212121;
 }
@@ -42,6 +73,34 @@ a{
 .section .img:focus{
     background-color: #2196F3;
 }
-.section-tit{
+.title{
   color: black;
+}
+.comment{
+  color: #757575;
+}
+.service{
+  color: #ffffff;
+  background: rgba(47, 48, 58, 0.8); 
+}
+.person{
+  color: #212121;
+}
+.job{
+  color: #757575;
+}
+
+/* portfolio */ 
+
+.button:hover,
+.button:focus{
+  color: #ffffff;
+  background: #2196F3;
+}
+
+.example{
+  color: #212121;
+}
+.type{
+  color: #757575;
 }
