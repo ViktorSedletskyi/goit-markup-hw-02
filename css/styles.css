@@ -38,17 +38,17 @@ a{
 /* footer */
 
 .footer{
-  background: #2F303A;;
+  background: #2F303A;
 }
 .logo:hover, 
 .logo:focus{
     color: #2196F3;
 }
-.part-1{
+.part-1-f{
     color: #2196F3;
 }
-.part-2{
-    color: black;
+.part-2-f{
+    color: #ffffff;
 }
 .adress{
   color: #FFFFFF;
@@ -62,7 +62,14 @@ a{
 .caption{
   color: rgba(255, 255, 255, 0.4);
 }
-
+.input-text{
+  color: rgba(255, 255, 255, 0.6);
+  background: #2F303A;
+}
+.input-submit{
+  color: #ffffff;
+  background: #2196F3;
+}
 /* main page*/ 
 
 .section{
