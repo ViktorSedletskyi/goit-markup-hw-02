@@ -28,11 +28,11 @@ ul{
 }
 
 .site-nav .link{
- 
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  color: #212121;
 }
 .site-nav .link.current{
   color: #2196F3;
@@ -61,11 +61,11 @@ ul{
   background: #2F303A;
 }
 .logo-f{
-  font-family: Raleway;
+  font-family: raleway, sans-serif;
   font-weight: 700;
   font-size: 22px;
   line-height: 1.18;
-  letter-spacing: 0.03em; 
+  letter-spacing: 0.03em;
 }
 
 
@@ -131,7 +131,7 @@ ul{
 .title{
   font-weight: 700;
   font-size: 14px;
-  line-height: 1.71;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -172,6 +172,16 @@ ul{
 
 /* portfolio */ 
 
+.button{
+  color: #212121;
+  background-color: #f5f4fa;;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63;
+  letter-spacing: 0.03em;
+
+  text-align: center;
+}
 
 .button:hover,
 .button:focus{
